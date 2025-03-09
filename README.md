@@ -1,6 +1,7 @@
-![7](https://github.com/user-attachments/assets/7c505540-0b4a-4af8-a184-a41f5af95204)# FFREN-WMTx-EARTHNODE
+# FFREN-WMTx-EARTHNODE
 A website for FREN WMTx  EARTHNODE
 A website for a Cardano-based project where they want to highlight their new staking mechanism
+![1](https://github.com/user-attachments/assets/72bd3b2c-b459-42c0-b98c-d605309941ec)
 ![2](https://github.com/user-attachments/assets/e4ba4cef-ffc8-421a-9d11-c9175df9d31a)
 ![3](https://github.com/user-attachments/assets/07762cc3-4140-4ade-aeaa-aa644b4036a7)
 ![4](https://github.com/user-attachments/assets/f6c37269-a1be-42ff-89f7-43f650dc3ca4)
