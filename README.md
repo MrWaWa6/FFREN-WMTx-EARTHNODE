@@ -8,4 +8,3 @@ A website for a Cardano-based project where they want to highlight their new sta
 ![5](https://github.com/user-attachments/assets/69102fc7-a7c5-4636-8bbc-08b4e4a14a72)
 ![6](https://github.com/user-attachments/assets/eaeb9de6-2f7e-4e10-a415-9964be34fba7)
 ![7](https://github.com/user-attachments/assets/f7284365-9962-4535-a88b-585a93b03f60)
-![1](https://github.com/user-attachments/assets/72bd3b2c-b459-42c0-b98c-d605309941ec)
