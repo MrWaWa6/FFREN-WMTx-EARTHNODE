@@ -1,6 +1,6 @@
 # FFREN-WMTx-EARTHNODE
 https://frenearthnode.com/
-A website for FREN WMTx  EARTHNODE
+A website for FREN WMTx EARTHNODE
 A website for a Cardano-based project where they want to highlight their new staking mechanism
 ![1](https://github.com/user-attachments/assets/72bd3b2c-b459-42c0-b98c-d605309941ec)
 ![2](https://github.com/user-attachments/assets/e4ba4cef-ffc8-421a-9d11-c9175df9d31a)
